@@ -217,7 +217,7 @@ const cards = [
     title: "Music-Courses",
     src: "https://asaphmusic.com/wp-content/uploads/2017/01/11.jpg",
     ctaText: "View",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "#projects",
     content: () => {
       return (
         <p>
@@ -234,7 +234,7 @@ const cards = [
     title: "NID's using ML&DL",
     src: "https://cyberfuture.com.au/wp-content/uploads/2019/09/nids-nips.jpg",
     ctaText: "View",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "#projects",
     content: () => {
       return (
         <p>A Network Intrusion Detection System (NIDS) using K-Nearest Neighbors (KNN) with the NSL-KDD dataset aims to detect unauthorized access or anomalies in network traffic. KNN, a simple yet effective machine learning algorithm, classifies network activity by comparing it to known patterns in the dataset. The NSL-KDD dataset, a refined version of the kdd99 dataset, provides labeled network traffic data, helping the NIDS distinguish between normal and malicious activities. By leveraging KNN on this dataset, the system can effectively identify intrusions, enhancing network security.
@@ -248,7 +248,7 @@ const cards = [
     title: "ChatRoom",
     src: "https://i.pinimg.com/236x/0f/ff/0d/0fff0d70a82d1b88985c4a52e75494c5.jpg",
     ctaText: "View",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "#projects",
     content: () => {
       return (
         <p> A webApp for connecting people from differnt location under single room.
@@ -265,7 +265,7 @@ const cards = [
     title: "Telegram bot",
     src: "https://cdn5.cdn-telegram.org/file/UDPcpAVKBO8Nv9_-34CABMh3lyciXTr_JaxhfxAcWB8RH7Bm1Pk0s5ct7oEEuL1DuBdlxvnVY-aw1PgDt0IFlqM9ZJd_oWOHhqMbAn-Ncsjzkq-zXMOLQkU9mlIYoFXYXCZZvemc3sgcOYeGj_FfHjwcRUaInFDHtyBiGQBhZny7dCdNLvBDtAabHanRKXHlEMdZxNsIl4qY12kPDQrPRmPVeoV_usGxK5KpwUBXTpTbELgHYh2_jiymjLuv9XwBS3kKPISIyRvZcAeScIYUPZx3d8xIBcLG8PIYo3PvX7GIXhsM-1aMCS-2WSsOSK7Z108YIPP26zkJ_h1jJ2dnzw.jpg",
     ctaText: "View",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "#projects",
     content: () => {
       return (
         <p>
@@ -282,7 +282,7 @@ const cards = [
     title: "Chatgpt-Next",
     src: "https://d1lss44hh2trtw.cloudfront.net/resize?type=webp&url=https%3A%2F%2Fshacknews-www.s3.amazonaws.com%2Fassets%2Farticle%2F2023%2F03%2F14%2Fopenai-chatgpt_feature.jpg&width=2064&sign=e0YeSGDroUEv6ZfWleUeUMcd2-xAH5iz_700ywpsyL0",
     ctaText: "View",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "#projects",
     content: () => {
       return (
         <p>
