@@ -32,8 +32,8 @@ function Hero() {
              <Image 
                       src={"https://media.licdn.com/dms/image/D5603AQGqj5MjVfSEEw/profile-displayphoto-shrink_400_400/0/1709320655582?e=1729123200&v=beta&t=vd1tMu_OYRSJ80-fiMnXukGuHnXkg_sbpRHEq003jIU"}
                       alt=''
-                      width={250}
-                      height={200}
+                      width={200}
+                      height={150}
                       className=' m-5 rounded-3xl  shadow-transparent-m '
                       />
            </div>
